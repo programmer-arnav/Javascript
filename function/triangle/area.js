@@ -1,5 +1,6 @@
 /*
-
+formula=(1/2)*base*height;
+unit= cm^2
 
 */
 function area_of_triangle(h,b){
