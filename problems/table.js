@@ -1,0 +1,23 @@
+function print_a_table(a){    
+    console.log(a*1)
+    console.log(a*2)
+    console.log(a*3)
+    console.log(a*4)
+    console.log(a*5)
+    console.log(a*6)
+    console.log(a*7)
+    console.log(a*8)
+    console.log(a*9)
+    console.log(a*10 , "\n")
+    // console.log()    
+}
+let a = 2
+print_a_table(a)
+print_a_table(3)
+print_a_table(4)
+print_a_table(5)
+print_a_table(6)
+print_a_table(7)
+print_a_table(8)
+print_a_table(9)
+print_a_table(10)
